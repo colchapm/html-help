@@ -1,5 +1,5 @@
 # HTML Help
-#### By Shanen Cross
+#### By Shanen Cross, Collin Chapman, and Darien West
 #### Practice project for learning jQuery
 
 ## Technologies Used
@@ -16,5 +16,5 @@ Pratice project created for Epicodus coding bootcamp. Used for learning jQuery.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2021 Shanen Cross
+Copyright (c) 2021 Shanen Cross, Collin Chapman, and Darien West
 
